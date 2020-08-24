@@ -11,9 +11,9 @@ MODELS provides all 9 top models (3 per HemoPI dataset), available in pickled (.
 RESULTS gathers the predictions from all 9 models applied to HemoPI model datasets, HemoPI validation datasets, APD dataset, HAMP dataset and the dataset of generated inliers (RPS) as well as the results from univariate/multivariate outlier detection methods.
 
 SCRIPTS contains 6 Jupyter notebooks scripts written in Python 3.6+ ordered in the development of the research project;
-1-Antimicrobial Peptide Database APD3 Webscraper & Cleanser.ipynb
-2-Calculator of Descriptors (modlamp) from peptide primary sequences.ipynb
-3-Classification models on Hemolytik datasets with 56 modlamp descriptors.ipynb
-4-Multivariate Outlier Detection algorithms applied to HemoPI, APD, HAMP datasets.ipynb
-5-tSNE_plus_inliers_novelties_clean.ipynb
-6-Generating random peptide sequences (RPS) with APD inliers amino acid composition.ipynb
+- 1-Antimicrobial Peptide Database APD3 Webscraper & Cleanser.ipynb
+- 2-Calculator of Descriptors (modlamp) from peptide primary sequences.ipynb
+- 3-Classification models on Hemolytik datasets with 56 modlamp descriptors.ipynb
+- 4-Multivariate Outlier Detection algorithms applied to HemoPI, APD, HAMP datasets.ipynb
+- 5-Predicting hemolytic activity and outliers in testing and de novo datasets.ipynb.ipynb
+- 6-Generating random peptide sequences (RPS) with APD inliers amino acid composition.ipynb
