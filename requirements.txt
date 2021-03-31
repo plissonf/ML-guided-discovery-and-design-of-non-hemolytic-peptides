@@ -39,7 +39,7 @@ Keras-Preprocessing==1.0.5
 llvmlite==0.30.0
 lockfile==0.12.2
 logging == 0.5.1.2
-lxml==4.3.0
+lxml==4.6.3
 Markdown==3.0.1
 MarkupSafe==1.0
 matplotlib==2.0.2
