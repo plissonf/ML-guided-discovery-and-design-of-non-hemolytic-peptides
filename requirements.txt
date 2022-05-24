@@ -87,7 +87,7 @@ soupsieve==1.7.3
 statsmodels==0.8.0
 subprocess32==3.2.7
 tensorboard==1.12.0
-tensorflow==1.12.0
+tensorflow==2.6.4
 termcolor==1.1.0
 terminado==0.6
 testpath==0.3
